@@ -1,5 +1,6 @@
-# ime-esteves-master-2014
-This is the main code for my master dissertation (C++). 
+# IME 2014 (Instituto Militar de Engenharia) - RJ, Brasil
+
+This is the main code for my master thesis (C++). 
 
 ## Title
 **_Predicao de tendencia de ativos em series financeiras utilizando algoritmos de aprendizado de maquina_**
@@ -12,9 +13,9 @@ is still a challenge to be overcome . The main diculty is nonlinear and non-stat
 behavior of nancial time series, as well as all uncertainty and noise found in the nancial
 market.
 
-This work focuses on nding stock price trends in the Brazilian market in certain
+This work focuses on finding stock price trends in the Brazilian market in certain
 periods of time and covers the study of the behavior of three machine learning algorithms,
-Naive Bayes (NB), Logistic Regression (LR) and Support Vector Machines (SVM) applied
+**Naive Bayes (NB), Logistic Regression (LR) and Support Vector Machines (SVM)** applied
 to historical data for nancial time series. The behavior was compared with a basic
 algorithm (Baseline - BLS) developed as a lower limit of quality for models generated.
 As shown in similar studies in the area, the SVM algorithm outperforms the others
@@ -24,8 +25,8 @@ library has been integrated into the **FAMA framework**, both available as opens
 distribution.
 
 In order to obtain models with larger capacity of generalization, the default behavior
-of the cross-validation method has been changed to adjust the characteristics of the
-problem, making it slide on time's period. It was shown that retrain the model in a
+of the cross-validation method has been changed to **adjust the characteristics of the**
+**problem, making it slide on time's period**. It was shown that retrain the model in a
 given period of time positively improves the hit rate when compared to the standard
 cross-validation model.
 
