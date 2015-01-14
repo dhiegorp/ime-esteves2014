@@ -1,0 +1,60 @@
+**********************************************
+Processando Ativo ELET6
+**********************************************
+janela = d-3;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.727273
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.590909
+janela = d-5;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.5
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.681818
+janela = d-10;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.5
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.545455
+janela = d-15;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.363636
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.454545
+janela = d-20;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.272727
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.454545
+janela = d-40;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.5
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.454545
+janela = d-60;
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.454545
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.454545
+janela = d-80;
+
+Inicio dos Testes SVM - Experimento 3
+SVM_K_exp3: 0.545455
+Inicio dos Testes NB - Experimento 3
+NB_K_exp3: 0.545455
+Inicio dos Testes RL - Experimento 3
+RL_K_exp3: 0.454545
